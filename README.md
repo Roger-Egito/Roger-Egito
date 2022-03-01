@@ -6,7 +6,7 @@ My name is Roger Egito!
 I'm a Brazilian undergraduate studying computer programming currently pursuing a Bachelor's in Information Systems. 
 
 
-I enjoy working on projects that create a better tomorrow and my hobby includes playing video games, so you can expect those kinds of projects from me here.
+I enjoy working on projects that create a better tomorrow and my hobbies include playing video games, so you can expect those kinds of projects from me here.
 Currently learning Python, React, TypeScript, Heroku, and Postgre SQL by working on different projects.
 
 
