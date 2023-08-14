@@ -10,7 +10,7 @@ I'm always looking for new opportunities and really enjoy learning!
 
 Additional Information:
 
-► GitHub Profile: https://www.linkedin.com/in/roger-egito/
+► LinkedIn Profile: https://www.linkedin.com/in/roger-egito/
 
 ► Business Email: rogeregitooficial@gmail.com
 
