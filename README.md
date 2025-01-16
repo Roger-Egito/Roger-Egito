@@ -1,15 +1,21 @@
-I am a Brazilian undergraduate student pursuing a Bachelor's degree in Information Systems. In addition to my studies, I teach English as a foreign language and am focused on growing my online business and developing digital games.
+I am an undergraduate student in Information Systems at the Federal Fluminense University (UFF) and a self-employed entrepreneur (MEI) working in teaching English as a foreign language and independently developing games using Unity. I am also currently designing my own TTRPG system.
 
-My professional experience includes front-end and back-end software development, and I have worked on creating games using Pygame, Unity, Unreal Engine 5, RPG Maker, and HTML/CSS/JavaScript. I have also been involved in organizing licensed League of Legends tournaments, developing complete TTRPG systems, and designing the systematization of wound care management for nursing, in collaboration with the Federal University of Minas Gerais (UFMG).
+My experience includes:
 
-During my internship, I contributed to the development of mobile applications, web pages, and desktop applications. My side projects include creating games, designing TTRPG systems, managing YouTube channels, and overseeing social media accounts.
+• Platforms such as Pygame, Unity, Unreal Engine 5, and RPG Maker, with expertise in:
+ㅤㅤ◦ Game Design
+ㅤㅤ◦ Level Design
+ㅤㅤ◦ UI Design
+ㅤㅤ◦ Audio and video production
 
-I am always seeking new opportunities to expand my skills and make meaningful contributions. Please feel free to reach out to me.
+• A variety of projects, such as:
+ㅤㅤ◦ Organizing licensed League of Legends tournaments.
+ㅤㅤ◦ Developing a system for wound care management in nursing.
+ㅤㅤ◦ Creating web pages and various desktop and mobile applications.
 
-Additional Information:
+I’m always looking for new opportunities. Feel free to reach out!
 
-► LinkedIn Profile: https://www.linkedin.com/in/roger-egito/
-
-► Email: rogeregitooficial@gmail.com
-
-► WhatsApp: +55 21 98081-8928
+• Contact:
+ㅤㅤ◦ [LinkedIn](https://www.linkedin.com/in/roger-egito/?locale=en_US)
+ㅤㅤ◦ Email: rogeregitooficial@gmail.com
+ㅤㅤ◦ WhatsApp: +55 21 98081-8928
